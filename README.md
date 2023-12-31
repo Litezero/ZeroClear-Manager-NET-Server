@@ -1,8 +1,10 @@
-# 🚀 ZeroClear||零尘面板-Net版本
+# 🚀 ZeroClear||零尘面板-Net版本（服务端）
 
 ZeroClear是一个由ZeroStudio打造的超级酷炫的BDS管理面板。它可以让你轻松地搭建、配置、运行和维护你的Minecraft BE服务器。
 
 ![ZeroClear-Manager](https://socialify.git.ci/Litezero/ZeroClear-Manager/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
+*这里是ZeroClear的服务端仓库，[客户端仓库](https://github.com/Litezero/ZeroClear-Manager-NET/)*
 
 ZeroClear是一个简洁而强大的开源BDS管理面板。它支持官方BDS核心的Minecraft BE服务器，并适配了[LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)这一加载器。
 
@@ -12,7 +14,7 @@ ZeroClear是一个简洁而强大的开源BDS管理面板。它支持官方BDS�
 
 ZeroClear-Net正在开发中，它将带来全新的UI和更多功能。
 
-目前而言，ZeroClear-Net正尝试以C++作为后端，E作为前端UI设计
+目前而言，ZeroClear-Net正尝试以C++作为后端，VB/C#为前端设计
 
 ## 🔓 「开源相关」
 
